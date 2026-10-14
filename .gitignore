@@ -1,0 +1,25 @@
+# Dataset files
+Data/*.csv
+Data/*.CSV
+
+# Python temporary files
+__pycache__/
+*.pyc
+.venv/
+
+# Local configuration
+.env
+# Additional dataset files
+Tableau/*.csv
+
+# VS Code settings
+.vscode/
+
+# Tableau temporary files
+~*.twb
+~*.twbx
+~*
+
+# SQL session files
+*.session.sql
+~*
